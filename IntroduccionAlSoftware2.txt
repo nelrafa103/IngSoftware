@@ -1,0 +1,96 @@
+Libros:
+
+Pressman R Ingenieria del software un enfoque practica
+
+Foster E. (2014) Software Engineering : A Methodical Approach
+
+Un producto de software es el codigo maquina y los ejecutables de un sistema. (En el pasado)
+
+Hoy en dia esto abarca aun mas documentos,diagramas y otros tipos de informacion, 
+que se necesitan para representar el software de manera comprensible para las maquinas 
+,desarolladores y demas.
+
+Hoy es dia el sector es tan grande que se permite la especializacion resulta beneficiosa.
+1. Porque lleva tanto tiempo terminar las programas
+2. Por que son tan elevados los costos de desarrollo ? 
+La mayoria de los costos del software no esta en el desarrollo sino en mantener y corregir errores
+3. Porque no podemos encontrar todos los errores antes de entregar en software a nuestros clientes ? 
+Esto se da debido a un factor psicologico que hace dificil romper el software.
+4. Porque nos resulta dificil constatar el programa conforme se desarrolla el software ?
+
+
+La respuesta a estas preguntas arriba son producto de la ingenieria de software.
+
+- Aunque la industria tiende a ensamblar componentes, la mayoria del software se contruye a la medida.
+
+
+- Software de sistem: Conjunto de programas hechos para servir a otros.
+- Software basdo en la web: Las paginas web buscadas por un explorador
+- Software de gestion: El proceso de informacion comercial constitu la mayor de las areas de la aplicacion del software.
+
+Mito: Si fallamos en la planificacion, podemos añadir mas progrmadores y adelantar el tiempo perdido.
+Realidad: En desarrollo de software no es un proceso mecanico como la fabricacion. Brooks dice añadir 
+mas personas a un proyecto de software retrasado lo puede retrasar aun mas
+
+Mito: Una vez que escribimos el programa y hacemos que funcione, nuestro trabajo ha terminado.
+Realidad: Alguien dijo una vez: "Cuanto mas pronto comience a escribir codigo mas se tardara en terminarlo"
+
+Al cotizar un software es ncesario analizar, dejar escrito las especificaciones. 
+
+- A menudo es dficil que el cliente exponga explicitamente todos los requisitos. 
+Debido a que el cliente al ser experto omite informacion por que la da por sentado.
+
+Que es un proceso de desarrollo de software:
+
+- Son los pasos que se deben realizar para obtener finalmente un software
+- Los trabajos a realizar para obtener un software en particular el cual se organiza en proyectos
+- La vinculacion de diferentes personas en equipos de trabajos, y por tanto la especializacion en tareas para las diferentes personas
+- De manera general se tiene el desarrolloador, los clientes y los usuarios.
+
+Piramide descendete: 
+1. Herramientas
+2. Metodos
+3 Procesos
+4. Enfoque de calidad 
+
+
+Rational Unified Process (Rup)
+
+Proceso unificado de ....
+
+- Estudiar la situacion actual, analizar, diseñar, programar, probar, implantar
+- Divide y venceras
+- Emplear modelos, modelar, Esto no es mas que aplicar un mecanismo de abstraccion: 
+Descrubir detallar un conjunto de aspectos del sistema y desestimar otros.
+
+RUP es una propuesta de proceso para el desarrollo de software orientado a objeto. 
+Utiliza UML para describir un sistema
+
+UML no es un metodo, es un lenguaje que permite la modelacion de sistema s de tecnologia orientada a objetos (Aprobada por la Onu)
+
+Razones para hacer uso de esto:
+
+- Hay necesidad de que los sistemas sean mas grandes y complejos
+- Se exige mayor velocidad de desarollo. 
+
+Cada iteraccion deberia ser vista como un mini proyecto.
+
+Beneficios de RUP:
+
+. Acelera el ritmo de desarrollo
+. Menor riesgo
+
+Defincion de Rup: 
+
+. 
+
+Definicion de artefacto:
+
+Termino general aplicable a cualquier tipo de informacion creada, cambiada o utilizada por los trabajadores en el desarrollo de software.
+Definicion de software: Producto de software que apoya el desarrollo de software.
+
+Las herramientas permiten:
+. Automatizar procesos repetitivos.
+. Mantener la informacion bien estructurada
+- Gestionar grandes cantidades de informacion
+. Permiten aumentar la productividad y calidad
